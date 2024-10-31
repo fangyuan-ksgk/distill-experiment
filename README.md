@@ -1,2 +1,2 @@
 # distill-experiment
-Experiment on distillation
+1. Grinding on "DIAMOND" diffusion for world modeling paper. 
